@@ -74,6 +74,7 @@ export default defineNuxtConfig({
 
   // Set default font family for the app
   app: {
+    baseURL: '',  // root base URL for user site
     head: {
       link: [
         {
