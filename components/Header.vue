@@ -24,7 +24,7 @@ const scrollToTop = (e, item) => {
             class="hover:text-secondary transition-colors"
             @click="(e) => scrollToTop(e, 'home')"
           >
-            strataQA
+            tactiQA
           </a>
         </div>
         <div class="flex items-center space-x-1">
