@@ -2,8 +2,8 @@
 // Import components
 import HeroSection from '~/components/HeroSection.vue'
 import ServicesSection from '~/components/ServicesSection.vue'
-import ProjectsSection from '~/components/ProjectsSection.vue'
-import TypographySection from '~/components/TypographySection.vue'
+// import ProjectsSection from '~/components/ProjectsSection.vue'
+// import TypographySection from '~/components/TypographySection.vue'
 import ContactForm from '~/components/ContactForm.vue'
 
 // Page configuration
