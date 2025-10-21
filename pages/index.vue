@@ -19,7 +19,7 @@ useHead({
   <div class="min-h-screen bg-white">
     <HeroSection />
     <ServicesSection />
-    <ProjectsSection />
+    <!-- <ProjectsSection /> -->
     <!-- <TypographySection /> -->
     <ContactForm />
   </div>
